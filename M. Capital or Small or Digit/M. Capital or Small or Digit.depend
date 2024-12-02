@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1733089980 source:g:\problem_solving\m. capital or small or digit\main.cpp
+	<iostream>
+	<cctype>
+
