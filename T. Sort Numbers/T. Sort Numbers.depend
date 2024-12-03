@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1733254369 source:g:\problem_solving\frist_100-problem_solving\t. sort numbers\main.cpp
+	<iostream>
+	<algorithm>
+
