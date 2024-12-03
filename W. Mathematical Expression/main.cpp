@@ -11,39 +11,39 @@ int main()
     switch(S)
     {
     case '+':
-       if(num1+num2==result)
-       {
-           cout<<"Yes";
+        if(num1+num2==result)
+        {
+            cout<<"Yes";
 
-       }
-       else
-       {
-           cout<<num1+num2;
+        }
+        else
+        {
+            cout<<num1+num2;
 
-       }
-       break;
+        }
+        break;
     case '-':
-       if(num1-num2==result)
-       {
-           cout<<"Yes";
+        if(num1-num2==result)
+        {
+            cout<<"Yes";
 
-       }
+        }
         else
-       {
-           cout<<num1-num2;
-       }
-       break;
+        {
+            cout<<num1-num2;
+        }
+        break;
     case '*':
-       if(num1*num2==result)
-       {
-           cout<<"Yes";
+        if(num1*num2==result)
+        {
+            cout<<"Yes";
 
-       }
+        }
         else
-       {
-           cout<<num1*num2;
-       }
-       break;
+        {
+            cout<<num1*num2;
+        }
+        break;
 
     }
 
