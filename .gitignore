@@ -1,0 +1,8 @@
+# تجاهل مجلد node_modules
+node_modules/
+
+# تجاهل مجلد build
+build/
+
+# تجاهل ملفات البيئة
+.env
